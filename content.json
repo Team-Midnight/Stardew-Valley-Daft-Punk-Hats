@@ -4,7 +4,7 @@
         {
 		"Action": "Load",
 		"Target": "Characters/Farmer",
-		"FromFile": "assets/accessories.png",
+		"FromFile": "assets/hats.png",
 		"Enabled": true
 		},
         {
