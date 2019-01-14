@@ -7,7 +7,7 @@ Created by MattAttack and Micalobia!
 
 **Micah's Twitter:** https://twitter.com/CaneDudeMicah
 
-![goldhelmet](https://pbs.twimg.com/media/Dw3Aq0QXgAEPG7R.jpg) ![silverhelmet](https://pbs.twimg.com/media/Dw3A2tTXgAAFrTc.jpg)
+![goldhelmet](https://imgur.com/R896cbm) ![silverhelmet](https://imgur.com/pKv3B8w)
 
 ## REQUIREMENTS
 
