@@ -7,6 +7,8 @@ Created by MattAttack and Micalobia!
 
 **Micah's Twitter:** https://twitter.com/CaneDudeMicah
 
+![goldhelmet](https://pbs.twimg.com/media/Dw3Aq0QXgAEPG7R.jpg)
+
 ## REQUIREMENTS
 
 ### 1. SMAPI
