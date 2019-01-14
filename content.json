@@ -3,14 +3,14 @@
 	"Changes": [
         {
 		"Action": "Load",
-		"Target": "LooseSprites/map",
-		"FromFile": "assets/map.png",
+		"Target": "Characters/Farmer",
+		"FromFile": "assets/accessories.png",
 		"Enabled": true
 		},
         {
 		"Action": "Load",
-		"Target": "townInterior",
-		"FromFile": "assets/townInterior.png",
+		"Target": "Characters/Farmer",
+		"FromFile": "assets/shirts.png",
 		"Enabled": true
 		}
              ]
