@@ -4,6 +4,7 @@ Replaces two hats in the game with Daft Punk helmets. For Stardew Valley using C
 Created by MattAttack and Micalobia!
 
 **Matt's Twitter:** https://twitter.com/MatthewRysz
+
 **Micah's Twitter:** https://twitter.com/CaneDudeMicah
 
 ## REQUIREMENTS
