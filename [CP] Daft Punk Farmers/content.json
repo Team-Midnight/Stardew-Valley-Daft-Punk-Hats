@@ -7,6 +7,13 @@
 		"Target": "Characters/Farmer/hats",
 		"FromFile": "assets/hats.png",
 		"Enabled": true
+		},
+		{
+			"Action": "EditData",
+			"PatchMode": "Replace",
+			"Target": "Data/hats",
+			"FromFile": "assets/hats.json",
+			"Enabled": true
 		}
              ]
 }
